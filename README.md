@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Varun Vegi
+# 👋 Hello, I'm Phani Venbkata Krishna Varun Vegi Sai Raghavendra
 
 🎓 Master's Student in Data Analytics Engineering at George Mason University (GPA: 4.0)  
 💡 Passionate about Data Science, Data Analysis, Data Engineering, Machine Learning, and Cloud Technologies  
